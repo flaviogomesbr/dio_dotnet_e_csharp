@@ -1,0 +1,14 @@
+1. Criar o diretório;
+
+2. Acessar o diretório e rodar o comando indicado abaixo no terminal:
+
+dotnet new console -n BranchesAndLoops -o .
+
+3. No arquivo "Program. cs", inserir o código desejado abaixo da primeira linha (linha 1 = using System)
+
+4. No terminal, digitar:
+
+dotnet run
+
+
+

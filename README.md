@@ -12,23 +12,8 @@ Estudos de C# e .net realizados na 1a semana de trabalho na Funcional Health Tec
 
 
 ## Requisitos
-- [Node.js](https://nodejs.org/en/download/) <br>
-- [Mongo](https://www.mongodb.com/try/download/community)
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/) <br>
 
 
-<> ## Preparando o projeto para rodar
-
-<> 1. Faça o clone do projeto: <br>
-    <> ```git clone https://github.com/flaviogomesbr/fcl.api```
-
-<> 2. Entre no diretório **fcl.api** e instale as dependências: <br>
-    <> ```yarn init -y``` <br>
-    <> ```yarn add graphql-yoga```
-
-<> 3. Executando: <br>
-    <> ```node src/server``` <br>
-
-<> 4. No navegador, digite: <br>
-    <> ```http://localhost:4000/``` <br>
 
 

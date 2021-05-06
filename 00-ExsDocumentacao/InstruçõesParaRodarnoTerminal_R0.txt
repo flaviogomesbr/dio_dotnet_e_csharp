@@ -1,12 +1,14 @@
-1. Criar o diretório;
+Utilizando o Visual Studio Code (VS Code)
 
-2. Acessar o diretório e rodar o comando indicado abaixo no terminal:
+1. Criar um diretório "teste";
+
+2. No terminal do VSCode, acessar o diretório "teste" e rodar o comando indicado abaixo no terminal:
 
 dotnet new console -n BranchesAndLoops -o .
 
-3. No arquivo "Program. cs", inserir o código desejado abaixo da primeira linha (linha 1 = using System)
+3. No arquivo "Program. cs" que foi gerado, inserir o código desejado abaixo da primeira linha (linha 1 precisa ser = using System)
 
-4. No terminal, digitar:
+4. No terminal do VSCode, digitar:
 
 dotnet run
 

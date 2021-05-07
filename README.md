@@ -13,6 +13,7 @@ Estudos de C# e .NET realizados na 1a semana de trabalho na Funcional Health Tec
 
 ## Requisitos
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/) <br>
+- [.NET](https://dotnet.microsoft.com/download) <br>
 
 
 

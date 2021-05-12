@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>"Primeiros passos com .NET + C#"</h1>
+    <h1>Primeiros passos com .NET + C#</h1>
     <img width=150 src='https://www.aboutfarma.com.br/images/materias/2019/04/1023623288_Funcional_health_logo_451.png'>
 </div>
 
